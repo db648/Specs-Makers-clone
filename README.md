@@ -17,36 +17,32 @@ group members are: </br>
 This is the home page of specsmakers.in clone.
 
 ## Tech Stack Used 
-</br>
 1.HTML, </br>
 2.CSS,</br>
 3.JAVA SCRIPT,</br>
 4.NodeJs,</br>
-5.Api's
+5.Api's </br>
 
 ![Home page](spec2.png)
 This is the home page of specsmakers.in clone.
 
 ## OUR CHALLENGES :
 We faced a lots of challenges while completing this project, The major problem was that we were working remotely so, communication and time management was major issue between us. As the project had short span of deadline so, on the last two days we all were working the whole night to complete our user-friendly website.
-Making Responsive Website and adding java script features
-Sliding images, adding hem-burger functionality to navbar
-Creating own data which required for website
-while merging code and commit data to repository
+- Making Responsive Website and adding java script features
+- Sliding images, adding hem-burger functionality to navbar
+- Creating own data which required for website
+- while merging code and commit data to repository
+
 We all are SOLVED our challenges as a team with good team spirit and finally cloned the website.
-Apart from these challenges we had some good things as a team like
-Everyone is very well supportive to each other and discussed about issues what we were facing during construct week and resolved all those.
-Everyone keen to learn & explore new things.
-We all appreciated the work done by everyone and motivated each other.
 
 ![category page](speccart.png)
 This is the Cart page of specsmakers.in clone.
 
 ## Key Learnings
 
-Problem Solving: As we faced many challenges during this project but we never gave up and try to solve every problem accordingly.
-Creativity: We apply creative thinking skills to innovate new product designs and possibilities for projects and how to manage projects and assignments more efficiently.
-Leadership: We take ownership over their projects, reflecting on and celebrating their progress and accomplishments.
+- Problem Solving: As we faced many challenges during this project but we never gave up and try to solve every problem accordingly. </br>
+- Creativity: We apply creative thinking skills to innovate new product designs and possibilities for projects and how to manage projects and assignments more efficiently. </br>
+- Leadership: We take ownership over their projects, reflecting on and celebrating their progress and accomplishments.
 
 ## Ending Note 
 At last, I want to thank the whole Masai School team.
