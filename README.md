@@ -5,31 +5,27 @@ https://tender-hoover-a53af4.netlify.app/
 # Specs-Makers-clone
 We are thankful to Masai school, given a chance to prove by ourself’s. We are so happy to share our journey in this construct week project. Our project is regarding cloning a website, first let me introduce my team members and group name is AnoxCoo.
 
-group members are:
-Durga Bhavani V
-Navneet kumar
-Pooja Yadav
-Sudeep Gudekota
-Nakul Deshmukh
-Kimmi kumari Sinha
+group members are: </br>
+- Durga Bhavani V </br>
+- Navneet kumar </br>
+- Pooja Yadav </br>
+- Sudeep Gudekota </br>
+- Nakul Deshmukh </br>
+- Kimmi kumari Sinha
  
-![Home page](spec1.png)
+![#00d1a0](spec1.png)
 This is the home page of specsmakers.in clone.
 
-# Tech Stack Used 
-
-HTML,
-CSS,
-JAVA SCRIPT,
-NodeJs,
-Api's
-
-
-## First day of Project
-we went through the flow of the website and we checked the functionality of the original website and coming to know we can make dynamic website as well as responsive. Later we communicated and divided our work accordingly to build a project.
-We all are connected through zoom meet in the morning, evening hours and slack as well. We collected all the information about Specsmakers and which functionalities we have to add to our project. We break the projects into various parts and allotted them to each other. We started working on all features of the project separately and pushes the code to a different branch of our git-hub repo as a template and merge all the codes accordingly.
+## Tech Stack Used 
+</br>
+1.HTML, </br>
+2.CSS,</br>
+3.JAVA SCRIPT,</br>
+4.NodeJs,</br>
+5.Api's
 
 ![Home page](spec2.png)
+This is the home page of specsmakers.in clone.
 
 ## OUR CHALLENGES :
 We faced a lots of challenges while completing this project, The major problem was that we were working remotely so, communication and time management was major issue between us. As the project had short span of deadline so, on the last two days we all were working the whole night to complete our user-friendly website.
@@ -44,6 +40,7 @@ Everyone keen to learn & explore new things.
 We all appreciated the work done by everyone and motivated each other.
 
 ![category page](speccart.png)
+This is the Cart page of specsmakers.in clone.
 
 ## Key Learnings
 
